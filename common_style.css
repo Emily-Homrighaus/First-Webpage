@@ -9,7 +9,7 @@
 }
 
 .bounce-top {
-	padding-top: 55px;
+	padding-top: 155px;
 	-webkit-animation: bounce-top 2s infinite alternate both;
 	        animation: bounce-top 2s infinite alternate both;
 }
