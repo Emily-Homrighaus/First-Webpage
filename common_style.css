@@ -1,3 +1,7 @@
+:root {
+	--bs-navbar-active-color: #D36582;
+}
+
 body {
 	background-color: #7F95D1
 }
@@ -10,10 +14,6 @@ body {
 
 .about-me-list dd {
   margin: 0;
-}
-
-.nav-link active {
-	color: #D36582;
 }
 
 .nav-link:hover {
