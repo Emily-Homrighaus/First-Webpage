@@ -14,11 +14,12 @@ body {
 
 .nav-link:hover {
 	background-color: #631A86;
-	color: #FFEECF
+	color: #FFEECF;
 }
 
-.nav-link active:hover {
-	color: #D36582
+.active {
+	background-color: #C9A690;
+	color: #631A86;
 }
 
 .bounce-top {
