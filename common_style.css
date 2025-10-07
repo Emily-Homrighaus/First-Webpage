@@ -12,12 +12,13 @@ body {
   margin: 0;
 }
 
-.nav-link:active {
-	color: #C9A690;
+.nav-link active {
+	color: #D36582;
 }
 
 .nav-link:hover {
 	background-color: #631A86;
+	color: #FFEECF
 }
 
 .bounce-top {
