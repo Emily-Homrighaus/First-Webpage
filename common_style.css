@@ -1,3 +1,7 @@
+body {
+	background-color: #7F95D1
+}
+
 .about-me-list {
   display: grid;
   grid-template-columns: max-content auto;
@@ -6,6 +10,14 @@
 
 .about-me-list dd {
   margin: 0;
+}
+
+.nav-link:active {
+	color: #C9A690;
+}
+
+.nav-link:hover {
+	background-color: #631A86;
 }
 
 .bounce-top {
