@@ -2,6 +2,11 @@ body {
 	background-color: #7F95D1
 }
 
+.card-name {
+	color: #D36582;
+	font-weight: normal;
+}
+
 .about-me-list {
   display: grid;
   grid-template-columns: max-content auto;
