@@ -19,8 +19,13 @@ body {
   gap: 0.5rem 1rem;
 }
 
-.about-me-list dd + ul{
+.about-me-list dd {
   margin: 0;
+}
+
+.about-me-list ul {
+	padding-left: 0;
+	margin: 0;
 }
 
 .about-me-list ul > li {
