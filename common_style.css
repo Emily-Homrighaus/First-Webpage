@@ -18,13 +18,12 @@ body {
   gap: 0.5rem 1rem;
 }
 
-.about-me-list dd {
+.about-me-list dd + ul{
   margin: 0;
 }
 
 .about-me-list ul > li {
 	list-style-type: none;
-	margin: 0;
 }
 
 .nav-link:hover {
