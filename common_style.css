@@ -7,6 +7,11 @@ body {
 	font-weight: normal;
 }
 
+#blog-post {
+	background-color: #7F95D1;
+	padding: 20px;
+}
+
 .about-me-list {
   display: grid;
   grid-template-columns: max-content auto;
