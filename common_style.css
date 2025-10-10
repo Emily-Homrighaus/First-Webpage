@@ -9,7 +9,7 @@ body {
 
 #blog-post {
 	background-color: #7F95D1;
-	padding: 20px;
+	margin: 20px;
 }
 
 .about-me-list {
@@ -20,6 +20,11 @@ body {
 
 .about-me-list dd {
   margin: 0;
+}
+
+.about-me-list ul > li {
+	list-style-type: none;
+	margin: 0;
 }
 
 .nav-link:hover {
