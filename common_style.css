@@ -3,12 +3,13 @@ body {
 }
 
 .card-name {
-	color: #FFEECF;
+	color: #712F91;
 	font-weight: normal;
 }
 
 #blog-post {
-	background-color: #7F95D1;
+	background-color: #FFEECF;
+	color: #FFFFFF
 	margin: 20px;
 	border-color: #7F95D1;
 }
