@@ -7,11 +7,18 @@ body {
 	font-weight: normal;
 }
 
-#blog-post {
+h1 {
+	padding-left: 30px
+}
+
+.card {	
+	border-color: #7F95D1;
 	background-color: #FFEECF;
 	color: #000000;
+}
+
+#blog-post {
 	margin: 20px;
-	border-color: #7F95D1;
 }
 
 .about-me-list {
