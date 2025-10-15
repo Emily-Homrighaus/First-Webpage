@@ -42,7 +42,7 @@ h1 {
 
 .nav-link:hover {
 	background-color: #631A86;
-	color: #FFEECF;
+	color: #FFEECF !important;
 }
 
 .active {
