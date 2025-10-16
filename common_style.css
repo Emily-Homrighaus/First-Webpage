@@ -50,6 +50,15 @@ h1 {
 	color: #631A86;
 }
 
+.btn {
+	border-color: #631A86;
+}
+
+.btn:active {
+	background-color: #631A86;
+	color: #FFEECF;
+}
+
 .bounce-top {
 	padding-top: 55px;
 	-webkit-animation: bounce-top 2s infinite alternate both;
