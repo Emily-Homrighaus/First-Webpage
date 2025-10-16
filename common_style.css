@@ -54,7 +54,7 @@ h1 {
 	border-color: #631A86;
 }
 
-.btn:active {
+.btn:visited {
 	background-color: #631A86;
 	color: #FFEECF;
 }
